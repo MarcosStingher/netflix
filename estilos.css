@@ -1,0 +1,29 @@
+
+.logo {
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    max-width: 20%;
+}
+
+.body {
+    background-color: black;
+    margin: 1%;
+}
+
+.tamanho { 
+    width: 80%;
+    margin-left: 2%
+}
+
+.margem {
+    margin-top: 20px;
+}
+
+ul,h1,h5,p {
+    color: red;
+}
+ 
+p {
+    text-align: justify;
+}
